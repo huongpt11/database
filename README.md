@@ -1,2 +1,3 @@
 # database
-##### database là một tập hợp dữ liệu đã được tổ chức sắp xếp. Mục đích chính của Database là để tổ chức một lượng lớn thông tin bằng việc lưu trữ, thu thập, và quản lý.
+#####- **Cơ sở dữ liệu** (Database) là tập hợp dữ liệu có cấu trúc được lưu trữ và truy cập từ hệ thống máy tính.
+#####- **Truy vấn cơ sở dữ liệu:**  được hiểu đơn giản là một “bộ lọc” có khả năng thu thập thông tin từ nhiều bảng trong một hệ cơ sở dữ liệu và thiết lập các các tiêu chí để hệ quản trị cơ sở dữ liệu thích hợp
